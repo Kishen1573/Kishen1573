@@ -28,6 +28,3 @@ Final Year Project utilizing YOLOv8 and CNN models to detect Malaysian traffic s
 
 LinkedIn:https://www.linkedin.com/in/kishenthiran-sagadevan-1b31242b0/
 Email: kishenthiran1573@gmail.com
-
-LinkedIn: (Add later)
-Email: (Optional)
