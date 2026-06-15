@@ -26,5 +26,6 @@ Final Year Project utilizing YOLOv8 and CNN models to detect Malaysian traffic s
 
 ## Contact
 
-LinkedIn:https://www.linkedin.com/in/kishenthiran-sagadevan-1b31242b0/
+LinkedIn: https://www.linkedin.com/in/kishenthiran-sagadevan-1b31242b0/
+
 Email: kishenthiran1573@gmail.com
