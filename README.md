@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Kishenthiran 👋
 
-<!--
-**Kishen1573/Kishen1573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Computer Science Graduate with interests in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Data Analytics
+
+## Featured Project
+
+### 🚦 Real-Time Malaysian Traffic Sign Detection and Alert System
+
+Final Year Project utilizing YOLOv8 and CNN models to detect Malaysian traffic signs in real-time from video input and generate alerts and detection logs.
+
+## Technical Skills
+
+- Python
+- YOLOv8
+- OpenCV
+- PyTorch
+- Data Analytics
+- Machine Learning
+
+## Contact
+
+LinkedIn: (Add later)
+Email: (Optional)
+
+LinkedIn: (Add later)
+Email: (Optional)
